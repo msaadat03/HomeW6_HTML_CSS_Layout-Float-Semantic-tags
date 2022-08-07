@@ -1,0 +1,81 @@
+body
+{
+    margin: 130;
+    background-image: url(https://oir.mobi/uploads/posts/2021-03/thumbs/1616583442_28-p-svetlo-goluboi-fon-odnotonnii-30.jpg);
+}
+
+.register
+{
+    position: relative;
+    height: 430px;
+    width: 630px;
+    background: #fff;
+    box-shadow: 0 3px 6px rgba(115, 115, 115, 0.9);
+    transform: translate(45%, 14%);
+}
+
+h1
+{
+    margin: -15px 0 25px 0;
+    font-weight: 300;
+    font-size: 30px;
+    color: rgb(134, 134, 134);
+}
+
+
+.rightregister
+{
+    position: absolute;
+    box-sizing: border-box;
+    width: 315px;
+    height: 430px;
+    background-image: url(https://th.bing.com/th/id/R.37085b9e9d20c80f71fda18d672f3a3d?rik=N%2bjIoFQyJ5XeDA&riu=http%3a%2f%2fdeeplyrics.ru%2fwp-content%2fuploads%2f2016%2f08%2f47cabe28f4c93195d7df8d59b20542d31.jpg&ehk=wE3jmmIoei7vH7sab2vJvv%2bb%2bRrfKSn9FqAY8OGjVhs%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-position: center;
+}
+
+.leftregister
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 300px;
+    height: 430px;
+}
+
+
+
+.inputtext
+{
+    margin-bottom: 26px;
+    padding: 0px;
+    width: 200px;
+    height: 35px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid rgb(149, 149, 149);
+    font-size: 15px;
+}
+
+.btn
+{
+  height: 30px;
+  width: 95px;
+  margin-bottom: 15px;
+  border-radius: 40px;
+  border-style: none;
+  background: #f38321 ;
+  color: white;
+}
+
+
+
+.text{
+    font-size: 13px;
+    color: rgb(148, 148, 148);
+    margin-top: -15px;
+}
+
+
